@@ -48,7 +48,7 @@ En concomitance, il s’agit de fédérer une communauté d’acteurs.trices en 
 
 Ainsi, dans un second temps il s’agit de travailler au déploiement opérationnel d’une Fabrique des Énergies dont la gouvernance est construite et partagée avec les acteurs-trices parties prenantes de la démarche afin, dans la majorité des cas, de se reposer sur celles et ceux qui, sur le terrain, ont des problématiques et des sujets à travailler en commun.
 
-## En discuter \| Rejoindre la communauté
+## En discuter
 
 [**Vous souhaitez en discuter, poser des questions ou nous rejoindre ?**](https://chat.fabenergies.cc) rendez-vous sur [**chat.fabenergies.cc**](https://chat.fabenergies.cc)
 
@@ -57,6 +57,4 @@ Ainsi, dans un second temps il s’agit de travailler au déploiement opération
 *  [Oxamyne](https://oxamyne.org)
 *  [FabMob](http://lafabriquedesmobilites.fr/)
 *  [ADEME](http://ademe.fr)
-
-
 
