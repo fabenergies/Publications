@@ -50,7 +50,7 @@ Ainsi, dans un second temps il s’agit de travailler au déploiement opération
 
 ## En discuter
 
-[**Vous souhaitez en discuter, poser des questions ou nous rejoindre ?**](https://chat.fabenergies.cc) rendez-vous sur [**chat.fabenergies.cc**](https://chat.fabenergies.cc)
+[**Vous souhaitez en discuter, poser des questions ou nous rejoindre ?**](https://chat.fabenergies.cc) Rendez-vous sur [**chat.fabenergies.cc**](https://chat.fabenergies.cc)
 
 ### Co-porteurs
 
