@@ -2,7 +2,7 @@
 description: 09/05/2020 - CC-BY-SA
 ---
 
-# La Fabrique des Énergies
+# Note d'intention pour une Fabrique des Énergies
 
 ![](.gitbook/assets/bandeau_fabrique-des-energies.png)
 
