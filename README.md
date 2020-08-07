@@ -2,11 +2,9 @@
 description: 09/05/2020 - CC-BY-SA
 ---
 
-# La Fabrique des Énergies : Vers une production de communs énergétiques
+# La Fabrique des Énergies
 
 ![](.gitbook/assets/bandeau_fabrique-des-energies.png)
-
-
 
 ## Intention
 
