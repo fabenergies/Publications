@@ -6,53 +6,31 @@ description: 09/05/2020 - CC-BY-SA
 
 ![](.gitbook/assets/bandeau_fabrique-des-energies.png)
 
+## Contexte
+
+Dans un monde de plus en plus "VICA" (Volatile, Incertain, Complexe, Ambigu) et ordonné par "le numérique" (sur le plan technologique et culturel), le secteur de l’énergie se transforme, passant d’une organisation par filières (où les acteurs sont alignés), à une dynamique d'écosystèmes (où les acteurs sont connectés), ce qui a pour effet d’éclater les barrières (entre disciplines, métiers, services, etc.).
+
+Dès lors, dans une perspective d’intérêt général, la puissance publique entend faciliter les reconfigurations en mobilisant trois leviers :
+* Faciliter l’interconnaissance et le dialogue entre acteurs (historiques et émergents), sur la base de problématiques
+* Soutenir l’expérimentation dans les territoires, sur la base de coopérations entre acteurs publics, privés et citoyens
+* Favoriser la mutualisation de savoirs et de capacités, sur la base de dispositifs de contribution et d'apprentisage
+
 ## Intention
 
-Dans la continuité des activités de recherche et d’innovation de [DAISEE](http://daisee.org) \(initié avec [la MYNE](http://lamyne.org)\) de ces trois dernières années, et fort du rapprochement initié avec la [Fab](http://lafabriquedesmobilites.fr/)[mob](http://lafabriquedesmobilites.fr/), il nous apparaît comme structurant d’expérimenter une “[Fabrique des Énergies](https://fabenergies.cc)”, à l’image de la démarche “[Fabrique des Mobilités](https://wiki.lafabriquedesmobilites.fr/wiki/Accueil)” appliquée à l’énergie.
+Dans le prolongement de la recherche-action [DAISEE](http://daisee.org) et fort de son rapprochement avec la [Fabrique des Mobilités](https://lafabriquedesmobilites.fr/), [Oxamyne](https://oxamyne.coop) propose de co-construire avec l’ADEME une Fabrique des Energies, i.e. un nouveau dispositif d’action publique pour les écosystèmes de l’énergie, qui vient compléter les regroupements en consortiums, clusters ou pôles au bénéfice des seuls membres contractants.
 
-Le secteur de l’énergie \(qu’on se positionne au niveau de l’offre ou de la demande\), comme tout secteur infrastructurel et serviciel, fait face à un processus de transformation par le numérique de filières industrielles \(où les acteurs sont alignés\), éclatant ainsi les barrières \(entre filières\) et des domaines \(disciplinaires et sectoriels\). On passe d’une dynamique de filière à une dynamique d’écosystème-s \(où tout se croise\), dans un environnement que l’on pourrait qualifier de VICA \(Volatile, Incertain, Complexe et Ambiguë\).
+L’intention est de proposer un cadre pour la mutualisation et la gouvernance collective de moyens d'actions (savoirs, méthodes, outils, expertises, terrains, etc.) par une multitude d'acteurs hétérogènes (industriels, entreprises innovantes, collectivités locales, agences publiques, collectifs citoyens, communautés de pratiques, etc.) agissant dans des territoires en transition énergétique.
 
-Dans ce contexte, travailler en écosystème-s nécessite de créer le cadre permettant de croiser et travailler trois composantes :
-
-*  PEOPLE : faciliter les relations, l’interconnaissance et la reconnaissance entre acteurs, non pas par filière ou discipline mais par thématique et projet.
-*  PLACES : ancrer chaque dynamique dans son contexte territorial et métier au travers de projets portés par les membres.
-*  PROCESS : capitaliser la connaissance et les retours d’expériences et erreurs, en participant de la production de savoir commun afin de faire émerger une culture commune de l’innovation ouverte s’appuyant sur des projets.
-
-La Fabrique des Énergies se donne pour intention de créer ce cadre de mutualisation, de croisement, d’expérimentation et d’accélération ouvert aux écosystèmes de l’énergie. Dans un premier temps, il s’agit de tester la proposition de concert avec la Fabrique des Mobilités sur des sujets convergents des thématiques énergétiques et de mobilité. Puis, dans un second temps, il s’agira d’ouvrir plus largement aux sujets et thématiques d’acteurs de l’énergie hors du cadre de coopération directe entre la Fabrique des Énergies et la Fabrique des Mobilités.
-
-## Pourquoi ?
-
-Le cœur de la proposition de la Fabrique des Énergies est la création d’un **espace favorisant la coproduction de ressources ouvertes et mutualisées pour tous les acteurs de l’énergie** \(industries, collectivités, agences, collectifs citoyens, associations …\). Il s’agit de proposer une organisation complémentaire aux organisations en consortium, groupement, cluster ou pôles existantes, fonctionnant sur des logiques dites d’open innovation et produisant de la connaissance et de l’expérience \(principalement\) à destination des membres contractants. Elle vise à permettre, sur des sujets stratégiques et des objets opérationnels, la production de ressources ouvertes et mutualisées \(communs informationels et expérienciels\) dont l’ensemble des acteurs est partie prenante et en a l’utilité. La vocation est le croisement et l’hybridation des problématiques, des approches et des réponses dans une démarche de communauté apprenante et de pratique intégrant notamment les territoires et acteurs locaux.
-
-L’entrée se veut par projets ou questions plus que par thématique, secteur ou discipline. Il s’agit, autour de sujets \(projets ou questions\) \(ap\)portés par le terrain, de produire des ressources, dont l’ouverture et la mutualisation sont nécessaires à l’ensemble des parties prenantes pour répondre à une problématique que, seule, les entités pourraient difficilement travailler. Par ailleurs, une telle typologie d’entrée permet d’adresser un sujet énergétique dans toute sa diversité disciplinaire, sectorielle et métier, tout en l’ancrant dans la réalité du terrain.
-
-Les objets de travail ne sont pas déterminés a priori mais émergent des nécessités des acteurs.trices présents et du terrain. Il reste très probable qu’ils soient intimement liés aux transformations qu’amènent ce qui est appelé le numérique dans la pensée, le développement et le déploiement d’infrastructures énergétiques et intimement liées à l’énergie.
-
-## Pour qui ?
-
-La Fabrique des Énergies a pour ambition de réunir la plus grande diversité possible de sensibilités, d’expertises, de secteurs et de disciplines liés à l’énergie, que l’on se situe du côté de l’offre, de la demande ou encore des acteurs intermédiaires.
+Pour préfigurer ce cadre, Oxamyne et l’ADEME organisent courant 2020 un cycle de résidences dans trois territoires pilote (l'agglomération de Concarneau en Bretagne, le Pays de Mornant en Auvergne-Rhône-Alpes et la commune de Prats-de-Mollo en Occitanie), en collaboration avec des acteurs portant des projets de territoire (association Bretagne Transition, coopérative SolarCoop et SEM Prats’EnR).
 
 ## Avec qui ?
 
-Il ne s’agit pas de définir a priori “pour qui” et “par qui” se construit la Fabrique des Énergies : elle se déterminera par les acteurs.trices qui constitueront au fur et à mesure la communauté de pratique. Pour cela, une phase de préfiguration de la démarche est nécessaire pour s’attacher à constituer le réseau d’acteurs.trices et mettre en place le cadre de construction des espaces mutualisés et de pratiques, les processus attenants à la mise en commun et l’environnement de coopération \(physique et numérique\).
+La Fabrique des Energies a pour ambition de réunir en France (et au delà à plus long terme) la plus grande diversité de sensibilités, d’expertises et de disciplines liés à l’énergie, que ce soit du côté de l’offre, de la demande ou encore des acteurs intermédiaires.
 
-Dans un premier temps il s’agit de travailler à la pré-figuration de la démarche. Dans ce cadre, il semble nécessaire de s’appuyer sur des acteurs.trices :
+Il ne s’agit pas d'en définir à priori les parties prenantes mais bien d’être accueillant à quiconque via des dispositifs de contribution (meetups thématiques, ateliers de co-conception, immersions terrain, challenges de territoire, permanences d’expérimentation, etc.).
 
-*  ayant l’expérience de la mise en place d’une fabrique, au sens d’espace de mutualisation, de croisement, d’expérimentation et d’accélération ouvert \(telle que la Fabrique des Mobilités\);
-*  étant à la confluence d’enjeux et d’acteurs.trices diversifiés et ayant une posture de neutralité face à ces différent.e.s acteurs.trices \(telle que l’ADEME\);
-*  ayant l’expérience de l’élaboration de configurations de travail en tiers-lieux par les communs \(telle que [Oxamyne](https://oxamyne.coop)\).
+## Comment
 
-En concomitance, il s’agit de fédérer une communauté d’acteurs.trices en capacité de s’approprier la démarche et l’objet à des fins de production de communs de l’énergie.
+La phase de préfiguration (mars 2020-juillet 2021) - co-portée par Oxamyne et l’ADEME avec le soutien de la Fabrique des Mobilités - a pour fonction de roder les processus et constituer en aller-retour avec les territoires l’infrastructure et l’environnement de travail. De façon transversale, un effort tout particulier est mis sur la mise en visibilité et lisibilité des mécanismes à des fins d’appropriation.
 
-Ainsi, dans un second temps il s’agit de travailler au déploiement opérationnel d’une Fabrique des Énergies dont la gouvernance est construite et partagée avec les acteurs-trices parties prenantes de la démarche afin, dans la majorité des cas, de se reposer sur celles et ceux qui, sur le terrain, ont des problématiques et des sujets à travailler en commun.
-
-## En discuter
-
-[**Vous souhaitez en discuter, poser des questions ou nous rejoindre ?**](https://chat.fabenergies.cc) Rendez-vous sur [**chat.fabenergies.cc**](https://chat.fabenergies.cc)
-
-### Co-porteurs
-
-*  [Oxamyne](https://oxamyne.org)
-*  [FabMob](http://lafabriquedesmobilites.fr/)
-*  [ADEME](http://ademe.fr)
-
+Début 2021, l’ambition est de réunir le premier cercle de parties prenantes (participants des résidences, sympathisants de la démarche, partenaires sur la phase de préfiguration, etc.) pour expliciter et formaliser la gouvernance de la Fabrique des Énergies. Au demeurant, une université éphémère des communs énergétiques sera organisée pour adosser le cadre de la Fabrique des Energies à la recherche.
